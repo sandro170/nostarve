@@ -1,0 +1,17 @@
+{
+    "health": 1000,
+    "radius": 55,
+    "limit": 0,
+    "time-events": [
+        {
+            "time": 1,
+            "commands": [
+                "gs $id 30"
+            ]
+        }
+    ],
+    "bool": [
+        "OBSTACLE",
+        "HEALTH_BAR"
+    ]
+}

@@ -1,0 +1,6 @@
+[14:31:21] [LOG] [Network] WebSocket server is listening on port 443
+[14:31:21] [LOG] [Content] Loading base content-pack
+[14:31:21] [LOG] [Content] Loaded 10 entities
+[14:31:21] [ERROR] [CommandSystem] Invalid command from path: D:\ESKI MASAUSTU\nostarve1\frontend\compiled\command\commands\building\clean-building.js
+[14:31:26] [LOG] [SaveSystem] Loaded 1 players & 0 buildings & 0 crates
+[14:31:30] [LOG] [Network] Connected with 0.0.0.1 ip

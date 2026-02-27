@@ -1,0 +1,40 @@
+[14:38:57] [LOG] [Network] WebSocket server is listening on port 443
+[14:38:57] [LOG] [Content] Loading base content-pack
+[14:38:57] [LOG] [Content] Loaded 10 entities
+[14:38:57] [ERROR] [CommandSystem] Invalid command from path: D:\ESKI MASAUSTU\nostarve1\frontend\compiled\command\commands\building\clean-building.js
+[14:39:02] [LOG] [SaveSystem] Loaded 1 players & 0 buildings & 1 crates
+[14:39:04] [LOG] [Network] Connected with 0.0.0.1 ip
+[14:39:07] [LOG] [Command] restarver#1 issued command: tp 1 64 42
+[14:39:08] [LOG] [Command] restarver#1 issued command: tp 1 61 39
+[14:39:08] [LOG] [Command] restarver#1 issued command: tp 1 60 37
+[14:39:09] [LOG] [Command] restarver#1 issued command: tp 1 58 37
+[14:39:09] [LOG] [Command] restarver#1 issued command: tp 1 58 35
+[14:39:09] [LOG] [Command] restarver#1 issued command: tp 1 58 32
+[14:39:09] [LOG] [Command] restarver#1 issued command: tp 1 57 30
+[14:39:10] [LOG] [Command] restarver#1 issued command: tp 1 55 28
+[14:39:10] [LOG] [Command] restarver#1 issued command: tp 1 53 26
+[14:39:10] [LOG] [Command] restarver#1 issued command: tp 1 51 23
+[14:39:10] [LOG] [Command] restarver#1 issued command: tp 1 49 21
+[14:39:10] [LOG] [Command] restarver#1 issued command: tp 1 49 19
+[14:39:10] [LOG] [Command] restarver#1 issued command: tp 1 50 18
+[14:39:10] [LOG] [Command] restarver#1 issued command: tp 1 51 18
+[14:39:11] [LOG] [Command] restarver#1 issued command: tp 1 49 19
+[14:39:11] [LOG] [Command] restarver#1 issued command: tp 1 49 19
+[14:39:11] [LOG] [Command] restarver#1 issued command: tp 1 50 17
+[14:39:11] [LOG] [Command] restarver#1 issued command: tp 1 50 18
+[14:39:12] [LOG] [Command] restarver#1 issued command: tp 1 49 18
+[14:39:12] [LOG] [Command] restarver#1 issued command: tp 1 50 18
+[14:39:12] [LOG] [Command] restarver#1 issued command: tp 1 49 18
+[14:39:12] [LOG] [Command] restarver#1 issued command: tp 1 49 19
+[14:39:12] [LOG] [Command] restarver#1 issued command: tp 1 49 19
+[14:39:13] [LOG] [Command] restarver#1 issued command: tp 1 51 19
+[14:39:13] [LOG] [Command] restarver#1 issued command: tp 1 52 20
+[14:39:13] [LOG] [Command] restarver#1 issued command: tp 1 53 20
+[14:39:13] [LOG] [Command] restarver#1 issued command: tp 1 54 20
+[14:39:13] [LOG] [Command] restarver#1 issued command: tp 1 55 19
+[14:39:14] [LOG] [Command] restarver#1 issued command: tp 1 54 20
+[14:39:15] [LOG] [Command] restarver#1 issued command: tp 1 50 19
+[14:39:16] [LOG] [Command] restarver#1 issued command: tp 1 46 20
+[14:39:17] [LOG] [Command] restarver#1 issued command: tp 1 39 17
+[14:39:21] [LOG] [Command] restarver#1 issued command: tp 1 39 11
+[14:39:21] [LOG] [Command] restarver#1 issued command: tp 1 38 10

@@ -1,0 +1,31 @@
+[00:23:19] [LOG] [Network] WebSocket server is listening on port 443
+[00:23:19] [LOG] [Content] Loading base content-pack
+[00:23:19] [LOG] [Content] Loaded 10 entities
+[00:23:19] [ERROR] [CommandSystem] Invalid command from path: C:\Users\sasuk\OneDrive\Masaüstü\nostarve1\frontend\compiled\command\commands\building\clean-building.js
+[00:23:24] [LOG] [SaveSystem] Loaded 1 players & 2 buildings & 0 crates
+[00:23:27] [LOG] [Network] Connected with 0.0.0.1 ip
+[00:23:57] [LOG] [Command] daddy issued command: g 1 238
+[00:23:57] [LOG] [Command] daddy issued command: g 1 238
+[00:23:57] [LOG] [Command] daddy issued command: g 1 238
+[00:23:57] [LOG] [Command] daddy issued command: g 1 238
+[00:23:57] [LOG] [Command] daddy issued command: g 1 238
+[00:23:58] [LOG] [Command] daddy issued command: g 1 238
+[00:23:58] [LOG] [Command] daddy issued command: g 1 238
+[00:23:58] [LOG] [Command] daddy issued command: g 1 238
+[00:24:46] [LOG] [Command] daddy issued command: tp 1 54 8
+[00:24:48] [LOG] [Command] daddy issued command: tp 1 53 15
+[00:24:48] [LOG] [Command] daddy issued command: tp 1 54 18
+[00:24:48] [LOG] [Command] daddy issued command: tp 1 55 22
+[00:24:48] [LOG] [Command] daddy issued command: tp 1 56 25
+[00:24:48] [LOG] [Command] daddy issued command: tp 1 56 29
+[00:24:49] [LOG] [Command] daddy issued command: tp 1 52 32
+[00:24:49] [LOG] [Command] daddy issued command: tp 1 50 34
+[00:24:49] [LOG] [Command] daddy issued command: tp 1 47 36
+[00:24:49] [LOG] [Command] daddy issued command: tp 1 44 38
+[00:24:49] [LOG] [Command] daddy issued command: tp 1 40 40
+[00:25:34] [WARN] [TICKER] TPS: 9.090909090909092 | DELTA: 0.11
+[00:33:19] [LOG] [SaveSystem] Saving 253 entities
+[00:36:59] [LOG] [Network] Disconnected with 0.0.0.1 ip 1006 [object ArrayBuffer]
+[00:43:20] [LOG] [SaveSystem] Saving 254 entities
+[00:53:20] [LOG] [SaveSystem] Saving 254 entities
+[01:03:20] [LOG] [SaveSystem] Saving 254 entities

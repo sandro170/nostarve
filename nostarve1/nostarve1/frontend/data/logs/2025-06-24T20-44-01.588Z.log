@@ -1,0 +1,12 @@
+[23:44:01] [LOG] [Network] WebSocket server is listening on port 443
+[23:44:01] [LOG] [Content] Loading base content-pack
+[23:44:01] [LOG] [Content] Loaded 10 entities
+[23:44:01] [ERROR] [CommandSystem] Invalid command from path: C:\Users\sasuk\OneDrive\Masaüstü\nostarve1\frontend\compiled\command\commands\building\clean-building.js
+[23:44:01] [WARN] [TICKER] TPS: 7.352941176470588 | DELTA: 0.136
+[23:44:06] [LOG] [SaveSystem] Loaded 2 players & 0 buildings & 0 crates
+[23:44:06] [LOG] [Network] Connected with 0.0.0.1 ip
+[23:44:10] [LOG] [Command] daddy issued command: tp 3 59 17
+[23:44:10] [LOG] [Command] daddy issued command: tp 3 57 20
+[23:44:11] [LOG] [Command] daddy issued command: tp 3 59 16
+[23:44:11] [LOG] [Command] daddy issued command: tp 3 65 13
+[23:46:02] [WARN] [TICKER] TPS: 8 | DELTA: 0.125

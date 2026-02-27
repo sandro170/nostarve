@@ -1,0 +1,5 @@
+[23:50:40] [LOG] [Network] WebSocket server is listening on port 443
+[23:50:40] [LOG] [Content] Loading base content-pack
+[23:50:40] [LOG] [Content] Loaded 10 entities
+[23:50:40] [ERROR] [CommandSystem] Invalid command from path: C:\Users\sasuk\OneDrive\Masaüstü\nostarve1\frontend\compiled\command\commands\building\clean-building.js
+[23:50:41] [LOG] [Network] Connected with 0.0.0.1 ip

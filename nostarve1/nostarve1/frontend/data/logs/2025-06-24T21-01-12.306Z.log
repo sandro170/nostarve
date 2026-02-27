@@ -1,0 +1,20 @@
+[00:01:12] [LOG] [Network] WebSocket server is listening on port 443
+[00:01:12] [LOG] [Content] Loading base content-pack
+[00:01:12] [LOG] [Content] Loaded 10 entities
+[00:01:12] [ERROR] [CommandSystem] Invalid command from path: C:\Users\sasuk\OneDrive\Masaüstü\nostarve1\frontend\compiled\command\commands\building\clean-building.js
+[00:01:12] [LOG] [Network] Connected with 0.0.0.1 ip
+[00:01:15] [LOG] [Command] daddy issued command: tp 1 43 66
+[00:01:15] [LOG] [Command] daddy issued command: tp 1 42 62
+[00:01:15] [LOG] [Command] daddy issued command: tp 1 41 59
+[00:01:16] [LOG] [Command] daddy issued command: tp 1 47 55
+[00:01:16] [LOG] [Command] daddy issued command: tp 1 53 52
+[00:01:16] [LOG] [Command] daddy issued command: tp 1 58 50
+[00:01:18] [LOG] [Command] daddy issued command: g 1 67
+[00:01:20] [LOG] [Command] daddy issued command: g 1 67
+[00:01:22] [LOG] [Command] daddy issued command: g 1 64
+[00:01:23] [LOG] [Command] daddy issued command: g 1 64
+[00:01:24] [LOG] [Command] daddy issued command: g 1 66
+[00:01:29] [LOG] [Command] daddy issued command: id
+[00:01:32] [LOG] [Command] daddy issued command: g 1 gold_wrench 1
+[00:01:46] [LOG] [Command] daddy issued command: ci 1
+[00:04:52] [LOG] [Network] Disconnected with 0.0.0.1 ip 1006 [object ArrayBuffer]

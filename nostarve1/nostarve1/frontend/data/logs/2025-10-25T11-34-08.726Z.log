@@ -1,0 +1,49 @@
+[14:34:08] [LOG] [Network] WebSocket server is listening on port 443
+[14:34:08] [LOG] [Content] Loading base content-pack
+[14:34:08] [LOG] [Content] Loaded 10 entities
+[14:34:08] [ERROR] [CommandSystem] Invalid command from path: D:\ESKI MASAUSTU\nostarve1\frontend\compiled\command\commands\building\clean-building.js
+[14:34:13] [LOG] [SaveSystem] Loaded 1 players & 0 buildings & 0 crates
+[14:34:14] [LOG] [Network] Connected with 0.0.0.1 ip
+[14:36:10] [LOG] [Network] Disconnected with 0.0.0.1 ip 1001 [object ArrayBuffer]
+[14:36:33] [LOG] [Network] Connected with 0.0.0.1 ip
+[14:36:36] [LOG] [Command] restarver#2 issued command: g 2 22
+[14:36:36] [LOG] [Command] restarver#2 issued command: g 2 30
+[14:36:36] [LOG] [Command] restarver#2 issued command: g 2 30
+[14:36:37] [LOG] [Command] restarver#2 issued command: g 2 27
+[14:36:37] [LOG] [Command] restarver#2 issued command: g 2 19
+[14:36:37] [LOG] [Command] restarver#2 issued command: g 2 19
+[14:36:37] [LOG] [Command] restarver#2 issued command: g 2 9
+[14:36:37] [LOG] [Command] restarver#2 issued command: g 2 2
+[14:36:37] [LOG] [Command] restarver#2 issued command: g 2 2
+[14:36:38] [LOG] [Command] restarver#2 issued command: g 2 13
+[14:36:38] [LOG] [Command] restarver#2 issued command: g 2 21
+[14:36:38] [LOG] [Command] restarver#2 issued command: g 2 29
+[14:36:38] [LOG] [Command] restarver#2 issued command: g 2 31
+[14:36:38] [LOG] [Command] restarver#2 issued command: g 2 40
+[14:36:38] [LOG] [Command] restarver#2 issued command: g 2 41
+[14:36:39] [LOG] [Command] restarver#2 issued command: g 2 41
+[14:36:41] [LOG] [Command] restarver#2 issued command: g 2 31
+[14:36:41] [LOG] [Command] restarver#2 issued command: g 2 31
+[14:36:41] [LOG] [Command] restarver#2 issued command: g 2 23
+[14:36:42] [LOG] [Command] restarver#2 issued command: g 2 23
+[14:36:42] [LOG] [Command] restarver#2 issued command: g 2 23
+[14:36:42] [LOG] [Command] restarver#2 issued command: g 2 23
+[14:36:42] [LOG] [Command] restarver#2 issued command: g 2 23
+[14:36:42] [LOG] [Command] restarver#2 issued command: g 2 24
+[14:36:42] [LOG] [Command] restarver#2 issued command: g 2 24
+[14:36:43] [LOG] [Command] restarver#2 issued command: g 2 24
+[14:36:43] [LOG] [Command] restarver#2 issued command: g 2 24
+[14:36:43] [LOG] [Command] restarver#2 issued command: g 2 25
+[14:36:44] [LOG] [DROP] restarver#2|2 x5 DIAMOND_SHIELD
+[14:36:51] [LOG] [DROP] restarver#2|2 x2 CRAB_SPEAR
+[14:36:53] [LOG] [Command] restarver#2 issued command: g 2 40
+[14:36:53] [LOG] [Command] restarver#2 issued command: g 2 40
+[14:36:53] [LOG] [Command] restarver#2 issued command: g 2 41
+[14:36:53] [LOG] [Command] restarver#2 issued command: g 2 39
+[14:36:54] [LOG] [Command] restarver#2 issued command: g 2 37
+[14:36:57] [LOG] [DROP] restarver#2|2 x1 GOLD_ARROW
+[14:37:39] [LOG] [Command] restarver#2 issued command: g 2 18
+[14:37:39] [LOG] [Command] restarver#2 issued command: g 2 18
+[14:37:39] [LOG] [Command] restarver#2 issued command: g 2 18
+[14:37:39] [LOG] [Command] restarver#2 issued command: g 2 18
+[14:37:40] [LOG] [Command] restarver#2 issued command: g 2 18

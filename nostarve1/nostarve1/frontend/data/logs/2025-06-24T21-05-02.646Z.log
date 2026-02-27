@@ -1,0 +1,9 @@
+[00:05:02] [LOG] [Network] WebSocket server is listening on port 443
+[00:05:02] [LOG] [Content] Loading base content-pack
+[00:05:02] [LOG] [Content] Loaded 10 entities
+[00:05:02] [ERROR] [CommandSystem] Invalid command from path: C:\Users\sasuk\OneDrive\Masaüstü\nostarve1\frontend\compiled\command\commands\building\clean-building.js
+[00:05:07] [LOG] [SaveSystem] Loaded 0 players & 0 buildings & 1 crates
+[00:05:07] [LOG] [Network] Connected with 0.0.0.1 ip
+[00:05:16] [LOG] [Command] daddy issued command: id
+[00:05:19] [LOG] [Command] daddy issued command: g 1 gold_wrench 1
+[00:05:21] [LOG] [CHAT] <daddy|1>: dog game
