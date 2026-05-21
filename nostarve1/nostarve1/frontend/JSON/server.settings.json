@@ -3,13 +3,13 @@
   "subdomain": "europe",
   "domain": "localhost",
   "account_domain": "localhost",
-  "owner_login": "SasuKe",
+  "owner_login": "Alpha",
   "admins": [
-    "SasuKe"
+    "Alpha"
   ],
   "mods": [],
   "mode": "community",
-  "master_password": "6241a2e3-c459-4bc8-8219-1e934300942b",
+  "master_password": "Alphaca",
   "tps": 30,
   "experience_factor": 0.1,
   "save_interval": 10,
