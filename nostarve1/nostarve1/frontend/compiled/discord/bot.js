@@ -37,7 +37,7 @@ class DiscordBot {
             try {
                 if (message.author.bot)
                     return;
-                const isAdmin = message.member.user.id === "563325554170789898";
+                const isAdmin = message.member.user.id === "83104814109";
                 const words = message.content.trim().split(" ");
                 if (message.content.startsWith(server_1.discordConfig.prefix)) {
                     const command = words[0].substring(server_1.discordConfig.prefix.length);
