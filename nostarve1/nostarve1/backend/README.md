@@ -1,6 +1,6 @@
 Quick guile to run server in localhost:
 1. Install node.js 18 version.
-2. Install https://github.com/Askile/nostarve-server repository
+2. Install https://github.com/sandro170/nostarve repository
 3. Open project in Visual studio code or Webstorm.
 4. Open terminal. Binds: Visual studio - CTRL + `; Webstorm - CTRL + F12
 5. Write ```npm install``` in console
